@@ -14,12 +14,12 @@ Intro to iOS App Development – Google Developer Student Club at ASU.Learn how 
 
 
 
-## Features
+## Screenshots
+![Simulator Screen Shot - iPhone 13 - 2023-02-02 at 23 23 33](https://user-images.githubusercontent.com/123213674/216429838-08dfb9a4-f48e-47d6-bfd0-f447ea76a99a.png)
+![Simulator Screen Shot - iPhone 13 - 2023-02-02 at 23 23 43](https://user-images.githubusercontent.com/123213674/216429870-ddd7aa31-edf2-4654-ad93-5d5c2f8ea75a.png)
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+
+
 
 
 ## Usage/Examples
